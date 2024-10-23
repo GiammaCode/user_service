@@ -1,4 +1,4 @@
-# Content service
+# User service
 ASEE Project, content service part.
 
 ## ENTITY CLASSES
