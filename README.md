@@ -37,4 +37,4 @@ http://localhost:8081/ Change default port value in application.properties
 
 reminder docker command:
 
-docker run -d -p 27018:27018 --name mongodbUser mongo
+docker run -d -p 27018:27017 --name mongodbUser mongo
